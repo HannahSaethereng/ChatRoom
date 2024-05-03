@@ -2,7 +2,7 @@
 Java Chatroom App
 
 ## Overview
-This project will allow users to join your server if they know your ip address and chat with each other.
+This project allow users to join your server if they know your ip address and chat with each other.
 
 ## Features
 * Start up server from computer
